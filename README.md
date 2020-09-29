@@ -1,6 +1,6 @@
 ## Aplicación de comando
 Ejercicio de curso
-Instlar paquetes de node
+Instalar paquetes de node
 
 ```````
 npm install
